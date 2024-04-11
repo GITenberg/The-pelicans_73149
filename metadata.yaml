@@ -1,0 +1,42 @@
+_repo: The-pelicans_73149
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delafield, E. M.
+    aliases:
+    - De La Pasture, Edmée Elizabeth Monica
+    - Dashwood, Elizabeth M.
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '37324'
+    url: http://www.gutenberg.org/2009/agents/37324
+    wikipedia: https://en.wikipedia.org/wiki/E._M._Delafield
+description: ''
+gutenberg_issued: '2024-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73149'
+  lccn: '19005277'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101067632404&view=1up&seq=7
+pgterms:marc905: 20210304011556delafield
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Nuns -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Conversion -- Catholic Church -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The pelicans
+url: http://www.gutenberg.org/ebooks/73149
